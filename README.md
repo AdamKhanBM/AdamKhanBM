@@ -1,6 +1,6 @@
 Hi there 👋 
 My name is  Adam Khan and I am a Biologist who is currently studing a MSC in Biomedicine.
-I am very interestted in learning more about Bioinformatics; Currently focusing on R
+I am very interested in learning more about Bioinformatics; Currently focusing on R
 
 
 
