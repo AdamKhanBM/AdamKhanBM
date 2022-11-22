@@ -1,8 +1,12 @@
-Hi there 👋 
+**Hi there 👋 **
+
 My name is  Adam Khan and I am a Biologist who is currently studing a MSC in Biomedicine.
 I am very interested in learning more about Bioinformatics; Currently focusing on R
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+**Coding knowledge**
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![#276DC3](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 
 
 
