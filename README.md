@@ -6,7 +6,7 @@ I am very interested in learning more about Bioinformatics; Currently focusing o
 **Coding knowledge**
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![#276DC3](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 
 
 
