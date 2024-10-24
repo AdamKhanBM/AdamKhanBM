@@ -11,9 +11,9 @@ I'm a **PhD student** specializing in **Bioinformatics** and **Cancer Research**
 ### 🔬 About Me
 
 - 🧬 **Bioinformatics Enthusiast**: Leveraging computational tools to decode biological data.
-- 🧪 **Cancer Researcher**: Focused on understanding cancer genomics and proteomics.
+- 🧪 **Cancer Researcher**: Focused on understanding MoA of potencial anti-cancer agents.
 - 🤖 **Machine Learning Advocate**: Applying ML and AI techniques to advance biomedical discoveries.
-- 🌐 **AI Explorer**: Fascinated by artificial intelligence and its potential in healthcare.
+- 🌐 **AI Explorer**: Fascinated by artificial intelligence and its potential for science.
 
 ---
 
@@ -27,8 +27,8 @@ I'm a **PhD student** specializing in **Bioinformatics** and **Cancer Research**
 
 ### 🌱 Interests
 
-- 🧠 **Deep Learning in Bioinformatics**
-- 🩺 **Personalized Medicine**
+- 🧠 **Machine Learning  in Bioinformatics**
+-💊 **Phenoypic Drug Discovery**
 - 🔬 **Systems Biology**
 - 📊 **Data Visualization**
 
@@ -58,8 +58,7 @@ I'm a **PhD student** specializing in **Bioinformatics** and **Cancer Research**
   ![scikit-image](https://img.shields.io/badge/-scikit--image-0098D8?logo=scikit-image&logoColor=white)  
   ![SciPy ndimage](https://img.shields.io/badge/-SciPy%20ndimage-8CAAE6?logo=SciPy&logoColor=white)
 
-- **Bioinformatics Tools**:  
-  Bioconductor, BLAST, ClustalW
+
 
 ---
 
