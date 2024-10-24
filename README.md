@@ -28,7 +28,7 @@ I'm a **PhD student** specializing in **Bioinformatics** and **Cancer Research**
 ### 🌱 Interests
 
 - 🧠 **Machine Learning  in Bioinformatics**
--💊 **Phenoypic Drug Discovery**
+- 💊 **Phenoypic Drug Discovery**
 - 🔬 **Systems Biology**
 - 📊 **Data Visualization**
 
