@@ -1,76 +1,67 @@
-# Welcome to My GitHub Profile! 🎉
-
+<!-- Banner ---------------------------------------------------------------->
+<!-- Replace the GIF/PNG below with your own banner if you like            -->
 ![Banner](https://your-image-url.com/banner.gif)
 
-## Hi there! 👋
+<p align="center">
+  <a href="https://adamkhanbm.github.io/my-cv/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%9C%20View%20My%20Online%20CV-blue?style=for-the-badge" alt="Online CV"/>
+  </a>
+</p>
 
-I'm a **PhD student** specializing in **Bioinformatics** and **Cancer Research**. My passion lies in unraveling the complexities of cancer through computational analysis and innovative research methods.
-
----
-
-### 🔬 About Me
-
-- 🧬 **Bioinformatics Enthusiast**: Leveraging computational tools to decode biological data.
-- 🧪 **Cancer Researcher**: Focused on understanding MoA of potencial anti-cancer agents.
-- 🤖 **Machine Learning Advocate**: Applying ML and AI techniques to advance biomedical discoveries.
-- 🌐 **AI Explorer**: Fascinated by artificial intelligence and its potential for science.
+# Hi, I’m **Adam Khan Navarro** 👋  
+_PhD student • Bioinformatics & Cancer Drug Discovery_
 
 ---
 
-### 🚀 Current Projects
-
-- **Machine Learning for MoA Prediction**: Developing models for **Mechanism of Action (MoA)** prediction in drug discovery and pharmaceutical drug development (**PDD**).
-- **Molecular Mapping**: Creating detailed molecular maps to understand cancer progression.
-- **Processing of Images**: Utilizing different packages for analyzing images of Microscopy Images.
-
----
-
-### 🌱 Interests
-
-- 🧠 **Machine Learning  in Bioinformatics**
-- 💊 **Phenoypic Drug Discovery**
-- 🔬 **Systems Biology**
-- 📊 **Data Visualization**
+## 🔬 About Me
+- 🧬 **Bioinformatics Enthusiast** — decoding omics & imaging data  
+- 🧪 **Cancer Researcher** — mapping mechanisms of action for potential therapeutics  
+- 🤖 **Machine-Learning Advocate** — building predictive models for phenotypic screens  
+- 🌐 **AI Explorer** — curious about everything from GPTs to graph networks  
 
 ---
 
-### 💡 Skills
-
-- **Programming Languages**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
-  ![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)  
-
-
-- **Data Analysis and Visualization**:  
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white)  
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white)  
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white)  
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white)  
-  ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=white)
-
-- **Machine Learning Libraries**:  
-  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)  
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)
-
-- **Image Processing Libraries**:  
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white)  
-  ![scikit-image](https://img.shields.io/badge/-scikit--image-0098D8?logo=scikit-image&logoColor=white)  
-  ![SciPy ndimage](https://img.shields.io/badge/-SciPy%20ndimage-8CAAE6?logo=SciPy&logoColor=white)
-
-
+## 🚀 Current Projects
+| Project | What I’m Doing | Tech Stack |
+|---------|----------------|-----------|
+| **MoA-ML** | Predicting Mechanism of Action from high-content screening | `Python`, `scikit-learn`, `Pandas`, `FFT` |
+| **Molecular Mapping** | Visualising cancer-signalling pathways | `NetworkX`, `Cytoscape`, `R` |
+| **Microscopy Pipeline** | Automated analysis of fluorescence & phase-contrast images | `OpenCV`, `scikit-image`, `TensorFlow` |
 
 ---
 
-### 📫 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:adamkhan.navarro@Gmail.com)
-
-
+## 🌱 Interests
+`ML in Bioinformatics` • `Phenotypic Drug Discovery` • `Systems Biology` • `Data Viz`
 
 ---
 
+## 💡 Skills
+
+### Languages & Environments
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+### Data Science & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
+
+### Machine Learning / DL
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+
+### Image Processing
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![scikit-image](https://img.shields.io/badge/scikit--image-0C8AC9?logo=scikit-image&logoColor=white)
 
 ---
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate! 🚀
+## 📫 Let’s Connect
+[![Email](https://img.shields.io/badge/email-adamkhan.navarro%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:adamkhan.navarro@gmail.com)
+
+---
+
+> ✨ **Feel free to explore my repos and reach out if you’d like to collaborate!** 🚀
