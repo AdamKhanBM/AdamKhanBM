@@ -1,11 +1,6 @@
 <!-- Banner ---------------------------------------------------------------->
 <!-- Replace the GIF/PNG below with your own banner if you like            -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdamKhanBM/AdamKhanBM/main/banner.png"
-       alt="Banner: Adam Khan Navarro"
-       width="1000"   <!-- or 900 / 800 -->
-       style="max-width: 100%; height: auto;">
-</p>
+![Animated banner](https://raw.githubusercontent.com/AdamKhanBM/AdamKhanBM/main/banner.gif)
 
 <p align="center">
   <a href="https://adamkhanbm.github.io/my-cv/" target="_blank">
