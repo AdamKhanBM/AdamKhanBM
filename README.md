@@ -1,6 +1,6 @@
 <!-- Banner ---------------------------------------------------------------->
 <!-- Replace the GIF/PNG below with your own banner if you like            -->
-![Banner](https://your-image-url.com/banner.gif)
+![Banner](https://raw.githubusercontent.com/AdamKhanBM/AdamKhanBM/main/banner.png)
 
 <p align="center">
   <a href="https://adamkhanbm.github.io/my-cv/" target="_blank">
