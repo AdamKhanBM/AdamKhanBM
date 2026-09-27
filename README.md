@@ -1,4 +1,8 @@
-![Adam Khan Navarro · Computational Biologist · Cancer Drug Discovery](banner.svg)
+<a href="https://adamkhanbm.github.io/my-cv/"><img src="banner.svg" alt="Adam Khan Navarro · Computational Biologist · Cancer Drug Discovery" width="100%"/></a>
+
+<p align="center">
+  <a href="https://adamkhanbm.github.io/my-cv/"><img src="https://img.shields.io/badge/Visit%20my%20website-adamkhanbm.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website"/></a>
+</p>
 
 # Hi, I'm Adam Khan Navarro
 
@@ -9,7 +13,6 @@ I build machine learning, transcriptomic and imaging tools for phenotypic drug d
 
 `12 peer-reviewed publications` · `7 congress talks` · `Erasmus+ research stay at FAU Erlangen-Nürnberg`
 
-[![Website](https://img.shields.io/badge/Website-adamkhanbm.github.io-7C3AED?style=flat-square)](https://adamkhanbm.github.io/my-cv/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Khan%20Navarro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-khan-navarro-269618347/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=bemt14AAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--8985--4632-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8985-4632)
